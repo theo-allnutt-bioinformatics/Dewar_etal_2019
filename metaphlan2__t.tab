@@ -1,0 +1,14 @@
+#OTU_ID	1.fasta	2.fasta	3.fasta	4.fasta	5.fasta	6.fasta	7.fasta	8.fasta	9.fasta	10.fasta	11.fasta	12.fasta	13.fasta	14.fasta	15.fasta	16.fasta
+Porphyromonas_asaccharolytica_unclassified	0	0	0	0	0	0	0	0	0	0	0	213.0	0	0	21.0	1597.0
+Enterococcus_faecalis_unclassified	214.0	53303.0	0	0	0	0	0	28.0	0	0	0	0	0	0	0	0
+Clostridium_perfringens_unclassified	1625.0	0	129309.0	66.0	0	0	0	912.0	0	0	0	913.0	2111.0	0	0	0
+Thiobacillus_denitrificans_unclassified	0	0	0	0	0	0	0	0	0	218.0	433.0	218.0	0	0	0	0
+GCF_000443165	0	0	0	0	0	0	0	0	0	116.0	78.0	0	0	0	0	0
+Escherichia_coli_unclassified	4327030.0	4823358.0	4543.0	31669.0	13432.0	23597.0	33620.0	121074.0	0	0	0	0	0	0	0	0
+GCF_000012305	0	0	0	0	0	0	0	0	40.0	0	276.0	0	99.0	0	0	0
+GCF_000013905	247.0	0	0	0	0	0	0	0	779.0	399.0	1484.0	0	1146.0	0	164.0	0
+GCF_000176795	576.0	0	2573475.0	8248.0	1829.0	5596.0	7229.0	34255.0	0	0	0	0	0	0	0	0
+Stenotrophomonas_maltophilia_unclassified	0	1348.0	0	0	0	0	0	0	0	0	0	0	2766.0	310.0	0	105.0
+GCA_000002835	0	0	0	9.0	0	0	0	0	78.0	0	0	129.0	19.0	0	0	69.0
+PRJNA14655	1.0	0	0	16.0	0	10.0	5.0	16.0	5.0	8.0	2.0	6.0	10.0	5.0	10.0	17.0
+
